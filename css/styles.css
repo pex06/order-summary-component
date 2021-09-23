@@ -133,6 +133,7 @@ body {
 
 @media screen and (max-width: 475px) {
   .card {
+    top: 12vh;
     width: 320px;
     height: 600px;
   }
